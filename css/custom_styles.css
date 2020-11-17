@@ -1,0 +1,25 @@
+hr {
+    width: 100%;
+    /* border: 1px solid rgba(255, 255, 255, 0.7); */
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p {
+    margin: 0;
+}
+
+.about-me-text-dark {
+    color: rgba(20, 0, 40, 0.6);
+    text-align: left;
+  }
+
+.about-me-text {
+    color: rgba(255, 255, 255, 0.6);
+    text-align: left;
+  }
+
+.about-me-text:hover {
+    color: rgba(255, 255, 255, 0.95);
+}
