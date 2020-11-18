@@ -9927,7 +9927,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: black !important;
 }
 
 a.text-info:hover, a.text-info:focus {
@@ -10267,7 +10267,7 @@ body {
 @media (min-width: 992px) {
   .projects-section .featured-text {
     padding: 0 0 0 2rem;
-    border-left: 0.5rem solid #64a19d;
+    border-left: 0.5rem solid #343a40;
   }
 }
 .projects-section .project-text {

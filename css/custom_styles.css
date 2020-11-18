@@ -11,7 +11,8 @@ hr {
 }
 
 .about-me-text-dark {
-    color: rgba(20, 0, 40, 0.6);
+    /* color: rgba(20, 0, 40, 0.6); */
+    color: rgb(96, 108, 126);
     text-align: left;
   }
 
