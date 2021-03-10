@@ -2676,6 +2676,7 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #23272b;
   border-color: #1d2124;
+  transition: 0.4s;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
@@ -10258,14 +10259,15 @@ body {
   text-align: center;
   height: 4rem;
   width: 4rem;
-  background: rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.75);
   border-radius: 100%;
   line-height: 5rem;
   color: #343a40;
 }
 .masthead .social a:hover {
-  background: #343a40;
-  color:rgba(255, 255, 255, 0.9);
+  background: rgba(255, 255, 255, 0.95);
+  color: #23272b;
+  transition: 0.3s;
 }
 .masthead .social a:active {
   background: #fff;
@@ -10345,7 +10347,7 @@ body {
   width: 3rem;
 }
 .contact-section .social {
-  margin-top: 5rem;
+  margin: 3rem 0 2rem 0;
 }
 .contact-section .social a {
   text-align: center;
@@ -10365,5 +10367,5 @@ body {
 }
 
 .footer {
-  padding: 5rem 0;
+  padding: 2rem 0;
 }
